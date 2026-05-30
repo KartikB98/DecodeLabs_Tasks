@@ -1,4 +1,4 @@
-# DecodeLabs_Tasks # DecodeLabs Tasks
+# DecodeLabs_Tasks 
 
 A collection of tasks, assignments, and projects completed as part of the DecodeLabs learning program. This repository showcases practical implementations across different domains of software development, including programming fundamentals, problem solving, automation, AI/ML, and application development.
 
